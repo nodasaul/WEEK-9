@@ -7,7 +7,7 @@ In this project, we had to create a honeypot server, is a computer system that i
 ### Summary
 Dionaea is a honeypot whose intention is to trap malwares that are exploiting vulnerabilities exposed by services offered to the network with the ultimate goal of gaining a copy of the attacking malware.
 
-- ![](./mhn.gif)
+- ![](./main.gif)
 
 The following tables show the breakdown of the attacks:
 
