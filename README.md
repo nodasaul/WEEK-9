@@ -31,3 +31,7 @@ Table 2: Attacks Ranking based on the Attacked Port
 |   3  |   445  |      110     |
 |   4  |   443  |      109     |
 |   5  |  1433  |      54      |
+
+
+## Issues
+It was very confusing and hard experience to set up GCP project and VMs for this project.
